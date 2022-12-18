@@ -1,12 +1,12 @@
-## `☛` **Hi!** `☚`
+## 👋 Hi there!
 
-`@3nt3r-A-U53rn4m3` 🖉 🖉 🖉
+*I just used github's default profile template and filled out information lol*
 
-`✧` I like to mess with HTML and CSS & I make JS bookmarklets for fun sometimes :) I know some Python too
+⭐ I like to mess with HTML/CSS/JS and know a bit of Python 🐍
 
-`✎` I’m currently learning `cpp` *helpsldgalkdfjelwifjsdljfkdl*
+✏️ I’m currently learning cpp *;-;*
 
-`🖃` You can contact me on Discord: Eucatastrophe#6358
+✉️ You can contact me on Discord: Eucatastrophe#6358
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=3nt3r-A-U53rn4m3)
 
@@ -17,3 +17,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
