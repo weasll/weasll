@@ -1,20 +1,27 @@
-## 👋 Sup
+## 👋 heya
 
-⭐ I like to mess with HTML/CSS/JS and know a bit of Python 🐍, and I’m currently learning c++ *;-;*
+⭐ webdev. webdev cool.
 
-⭐ If you're wondering what the heck this username is, it's `Enter-A-Username` but in leetspeak lol
+⭐ uhh new python projects once per two blue moons maybe
 
-⭐ I mostly just make random stuff on here :>
+⭐ experimental bookmarklet fun
 
-## Le contact
+⭐ have fun trying to read this username
 
-![](https://img.shields.io/badge/Discord-Eucatastrophe%236358-%23f3edff?style=for-the-badge)
 
-## Github stats bit
+## Concatenation
+
+![](https://img.shields.io/badge/Discord-eucatastrophe6358-%23f3edff?style=for-the-badge)
+
+I still don't like how discord removed tags 
+
+Sometimes you have ideas. Sometimes I have ideas! We can dump our ideas into a bowl, mix it up into a blob, give it eyes and wings and watch it fly :)
+
+## Github stat L
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=3nt3r-A-U53rn4m3)
 
-## Stuff I can do
+## Gotta collect
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
