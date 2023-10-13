@@ -15,7 +15,7 @@
 
 I still don't like how discord removed tags 
 
-Sometimes you have ideas. Sometimes I have ideas! We can dump our ideas into a bowl, mix it up into a blob, give it eyes and wings and watch it fly :)
+Sometimes you have ideas. Sometimes I have ideas! We can dump our ideas into a bowl, mix them up into a blob, shape it, and then give it eyes and wings and watch it fly :)
 
 ## Github stat L
 
