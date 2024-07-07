@@ -11,7 +11,7 @@
 
 ## Concatenation
 
-![](https://img.shields.io/badge/Discord-eucatastrophe6358-%23f3edff?style=for-the-badge)
+![](https://img.shields.io/badge/Discord-dycatastrophe-%23f3edff?style=for-the-badge)
 
 I still don't like how discord removed tags 
 
