@@ -1,5 +1,7 @@
 ## 👋 heya
 
+<img src="thesilly.jpg" alt="a weasel" width="200"/>
+
 ⭐ webdev. webdev cool.
 
 ⭐ uhh new python projects once per two blue moons maybe
