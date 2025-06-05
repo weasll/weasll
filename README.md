@@ -6,7 +6,9 @@
 
 ⭐ experimental bookmarklet fun
 
-⭐ have fun trying to read this username
+⭐ used to be 3nt3r-A-U53rn4m3
+
+
 
 
 ## Concatenation
