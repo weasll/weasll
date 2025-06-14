@@ -23,7 +23,7 @@ Sometimes you have ideas. Sometimes I have ideas! We can dump our ideas into a b
 
 ## Github stats ⊙︿⊙
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=3nt3r-A-U53rn4m3)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sprklli)
 
 ## Gotta collect
 
